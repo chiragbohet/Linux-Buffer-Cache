@@ -2,7 +2,7 @@
 #include <vector>
 #include <sys/shm.h>
 #include <unistd.h>
-#include "sharedmemory.h"
+#include "sharedmemory.h" // to include sharedmemeory.h
 #include <signal.h>
 
 using namespace std;
