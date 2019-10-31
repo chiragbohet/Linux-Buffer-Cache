@@ -13,6 +13,6 @@ int main()
 	
 	b.getResponseFromSharedMemory();
 	
-	}	
+	}	//this loop will keep running
 	
 }
