@@ -4,7 +4,7 @@ using namespace std;
 void destroySharedMemory(){
 	
 	//Used by server to destroy shared memory
-	//TODO : DO THIS!
+	//TODO : DO THIS! I have to do this
 	
 	};
 void detachFromSharedMemory(communicationPacket* cp){
