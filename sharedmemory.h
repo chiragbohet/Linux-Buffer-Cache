@@ -38,7 +38,7 @@ communicationPacket* createSharedMemory();
 void sendResponse();
 communicationPacket* connectToSharedMemory();
 
-//--------------NEW ADDITIONS--------------------
+//------------------NEW ADDITIONS--------------------------
 
 void sendRequestForBlock(communicationPacket*);
 void sendRequestForReleaseBlock(communicationPacket*);
